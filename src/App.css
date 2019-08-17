@@ -1,0 +1,23 @@
+.App {
+  background: #1a1919;
+  color: #fff;
+  min-height: 100vh;
+  padding: 25px;
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 52px;
+  margin: 0;
+}
+
+.App h2 {
+  color: #f6c945;
+  text-transform: uppercase;
+}
+
+.App img {
+  cursor: grab;
+  height: 180px;
+  width: 240px;
+}
